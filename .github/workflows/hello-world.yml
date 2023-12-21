@@ -15,5 +15,5 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       
       # Runs a single command using the runners shell
-      - name: 'Echo text'
+      - name: Echo text
         run: 'echo "Hello, world!"'
